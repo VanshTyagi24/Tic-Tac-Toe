@@ -2,6 +2,11 @@ package com.company;
 
 import java.util.Scanner;
 
+/**
+ *
+ * @author vansh
+ */
+
 class Main {
 
     public static void main(String[] args) {
